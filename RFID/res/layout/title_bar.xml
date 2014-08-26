@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/titlebar_bg_nor"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       	>
+
+        <Button
+            android:id="@+id/bt_title_back"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_centerVertical="true"
+        	android:background="@drawable/title_back"
+            />
+        
+        <TextView
+            android:id="@+id/tv_title_tip"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+            android:text="主页"/>
+        
+        <TextView
+            android:id="@+id/tv_title_left_text"
+            android:textSize="13sp"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="name"
+            />
+        <TextView
+            android:id="@+id/tv_title_right_text"
+            android:textSize="13sp"
+            android:layout_width="wrap_content"
+      		android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/tv_title_left_text"
+            android:text="设备状态"
+            />
+        <TextView
+        android:id="@+id/tv_title_textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:textSize="13sp"
+		android:text="beizhu"
+		android:layout_below="@id/tv_title_left_text"
+        android:layout_toLeftOf="@id/tv_title_right_text"
+        />
+    </RelativeLayout>
+    
+    
+
+</LinearLayout>

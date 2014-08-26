@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能锁封管理系统移动作业平台</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_about">关于</string>
+    <string name="about_text">江门市大光明电力设备厂有限公司版权所有
+        \nVersion 1.2
+    	\n如有程序问题请联系  pengwx@dgmpef.com</string>
+    <string name="btsearchMenu">蓝牙连接</string>
+    <string name="none_paired">没有配对的设备</string>
+       <string name="select_device">select a device to connect</string>
+           <string name="none_found">No devices found</string>
+           <string name="help">帮助</string>
+           <string name="help_text">使用说明:
+               \n1.软件设置有自动和手动查询方式，选择自动查询方式时，将读卡器靠近标签后点击查询或者点击查询后快速将读卡器靠近标签。软件将自动读取RFID中的TID数据。
+               		并查询出结果。手动查询方式需要自己输入TID数据查询。
+               \n2.软件的读卡功能可以读取RFID任意的数据，读取前请在操作选项中选择需要的操作。寻卡和固件版本操作不需要开始地址和数据位数的输入，所以选择此两项时输入框被屏蔽。
+               \n3.读取RFU,EPC,TID,USR数据时，必须输入相应的读取范围。读取范围应在RFID允许的范围之内，不然会出现读取错误的信息。
+               \n4.RFID读卡器可能出现不稳定的情况，如果出现多次不能连接，请重启软件和RFID读卡器，确定RFID正常关闭重启，运行软件进行操作。
+               </string>
+                   <string name="buttonname">ok</string>
+    <string name="intruduction">通过网络对智能计量封印身份信息核查，有效识别电子标签真伪。核对封印特征、颜色、加封状态等信息。</string>               
+    <string name="hello">我的日志</string>
+    <string name="cc">古榕路21号</string>
+    <string name="gg">环城3路</string>
+    <string name="qbmy">中环广场1号</string>
+    <string name="lsdf">城南里8号</string>
+    <string name="shg">育才路38号</string>
+    <string name="cc1">冈州广场北</string>
+    <string name="gg1">南园新村</string>
+    <string name="qbmy1">大新路27号</string>
+    <string name="lsdf1">乔乐路5号</string>
+    <string name="shg1">中心南43号</string>
+
+    <string name="cc_body">户号\n户名\n地址\n经办人</string>
+    <string name="gg_body">户号\n户名\n地址\n经办人</string>
+    <string name="qbmy_body">户号\n户名\n地址\n经办人</string>
+    <string name="lsdf_body">户号\n户名\n地址\n经办人</string>
+    <string name="shg_body">户号\n户名\n地址\n经办人</string>
+    <string name="p1">外勤装表</string>
+    <string name="p2">常规稽查</string>
+    <string name="p3">专项稽查</string>
+    <string name="p4">封印检查</string>   
+    
+    
+    
+    
+    <!--bluetoothfragment  -->
+    <string name="bluetoothstate">蓝牙状态</string>        
+    <string name="HadMatchedBluetooth">已配对的蓝牙设备</string>        
+    <string name="HadSearchedBluetppth">搜索到的蓝牙设备</string>        
+    
+    <!-- morefragment  -->
+    <string name="msgpush">消息设置</string>        
+    <string name="mysetting">我的设置</string>        
+    <string name="push">推送消息</string>        
+    <string name="bluetoothchange">蓝牙读写器</string>        
+    <string name="Serveraddress">服务器地址</string>        
+    <string name="passwordchange">修改密码</string>        
+    <string name="Loginout">注销登录</string>        
+    
+
+</resources>

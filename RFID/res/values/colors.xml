@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 	<color name="brown">#FFA52A2A</color><!--褐色 -->   
+ 	<color name="tomato">#EEFF6347</color><!--西红柿色 -->
+ 	<color name="bisque">#FFE4C4</color><!--桔黄色 -->
+ 	<color name="transparent_background">#aa666666</color><!--半透明 -->
+ 	<color name="grey">#FFC3C3C3</color><!-- 灰色 -->
+ 	<color name="tab_unselected">#ff000000</color>
+<color name="tab_selected">#ff383838</color>
+<color name="tab_focus">#ffff8000</color>
+<color name="tab_press">#ffe9a700</color>
+
+<color name="tab_font_unselected">#ff888888</color>
+<color name="tab_font_selected">#ffffffff</color>
+<color name="tab_font_focus">#ffffffff</color>
+<color name="tab_font_press">#ff888888</color>
+
+<color name="black">#FF000000</color>
+<color name="dkgray">#FF444444</color>
+<color name="gray">#FF888888</color>
+<color name="ltgray">#FFCCCCCC</color>
+<color name="white">#FFFFFFFF</color>
+<color name="red">#FFFF0000</color>
+<color name="green">#FF00FF00</color>
+<color name="blue">#FF0000FF</color>
+<color name="yellow">#FFFFFF00</color>
+<color name="cyan">#FF00FFFF</color>
+<color name="magenta">#FFFF00FF</color>
+  <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="help_button_view">#ffcccccc</color>
+  <color name="help_view">#ff404040</color>
+  <color name="possible_result_points">#c0ffff00</color>  
+  <color name="result_image_border">#ffffffff</color>
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c000ff00</color>
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="sbc_header_text">#ff808080</color>
+  <color name="sbc_header_view">#ffffffff</color>
+  <color name="sbc_list_item">#fffff0e0</color>
+  <color name="sbc_layout_view">#ffffffff</color>
+  <color name="sbc_page_number_text">#ff000000</color>
+  <color name="sbc_snippet_text">#ff4b4b4b</color>
+  <color name="share_text">#ff000000</color>
+  <color name="share_view">#ffffffff</color>
+  <color name="status_view">#50000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="transparent">#00000000</color>
+  <color name="viewfinder_frame">#ff000000</color>
+  <color name="viewfinder_laser">#ffff0000</color>
+  <color name="viewfinder_mask">#60000000</color>
+ 
+ 	<!-- dishtype_layout -->
+ 	<color name="dishtype_textcolor">#FF8E5D24</color>			<!-- text颜色 -->
+</resources>
